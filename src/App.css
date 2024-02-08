@@ -1,0 +1,23 @@
+html { 
+  background: url(src/limitless.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Title {
+color: white;
+}
+
+.Ship-info-container {
+  display: flex;
+  background-color: rgb(34, 33, 33);
+  size: 100%;
+}
+
+.Ship-info {
+  flex-direction: column;
+  align-items: flex-start;
+  
+}
